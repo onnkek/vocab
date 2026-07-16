@@ -1,0 +1,8 @@
+{
+  "short_name": "VocabFlow",
+  "name": "VocabFlow Vocabulary Trainer",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0b0f17",
+  "background_color": "#0b0f17"
+}
